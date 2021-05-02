@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luckycan12, an Italian students at UniPD
+- 👋 Hi, I’m @JacopoLucky, an Italian students at UniPD
 - I'm here for sharing with the others my free time project's 🕕
 - I'will post mainly Arduino Code for ESP8266 and Arduino Board
 - I hope to do the best 🐺
